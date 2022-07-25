@@ -3,12 +3,8 @@ body{
     color:white
 }
 .container{
-    border: 2px solid red;
-    width: 80%
-    margin:auto
-    background-color: grey;
-    
- 
+    background-color: rgb(91, 101, 109);
+    border-radius: 10px;
 }
 .heading{
     font-family: 'Lobster', cursive;
